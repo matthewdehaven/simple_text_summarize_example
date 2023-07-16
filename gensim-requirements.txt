@@ -1,0 +1,6 @@
+gensim==3.6.0
+numpy==1.24.4
+pkg_resources==0.0.0
+scipy==1.10.1
+six==1.16.0
+smart-open==6.3.0
